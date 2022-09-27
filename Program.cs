@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
+// Tim Orgill
+// Tic Tac Toe Program
+
 namespace MyApp // Note: actual namespace depends on the project name.
 {
     internal class Program
